@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+#reportContent {
+    max-height: 500px;
+    overflow-y: auto;
+    white-space: pre-wrap;
+}
+
+.spinner-border {
+    width: 3rem;
+    height: 3rem;
+}
